@@ -1,5 +1,5 @@
-copyright: '&copy; Start Bootstrap'
+copyright: '&copy; sciplaya.com'
 links:
-  - text: sciplaya.com
-    url: 'https://startbootstrap.com/themes/creative/'
+  - text: Creado en Jekyll con el tema Creative Theme for Jekyll New
+    url: 'https://github.com/vvalchev/creative-theme-jekyll-new'
     new_window: true
