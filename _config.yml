@@ -1,5 +1,5 @@
 # Site settings
-title: SCI Playa: Soporte y Consultoria Informática
+title: SCI Playa, Soporte y Consultoria Informática
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
