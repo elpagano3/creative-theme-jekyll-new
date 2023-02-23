@@ -3,9 +3,9 @@ layout: home
 header:
   title: Soporte Técnico, Consultoria Infomática, Servidores Linux y Windows
   text: > 
-   "Somos proveedores de servicios y consultoria en tecnologías de la información: venta de equipos de cómputo, servidores Linux y Windows, Firewalls y equipos para tu red de la empresa".
+   "Somos proveedores de servicios y consultoria en tecnologías de la información: venta de equipos de cómputo, servidores Linux y Windows, firewalls y equipos para la red de tu oficina o empresa".
   action: # action button is optional
-    label: Find Out More
+    label: Más información
     url: '#about'
 
 
@@ -14,9 +14,9 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Somos lo que necesitas para tu empresa!
-    text: Abre un ticket o envianos un  Email.
+    text: Abre un ticket de soporte o envianos un  Email.
     actions:
-      - title: Abre un ticket de soporte
+      - title: Abre un ticket
         url: '#page-top'
         class: btn-light
 
@@ -29,7 +29,7 @@ sections:
         text: Our templates are updated regularly so they don't break.
         icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Consltoria y Asesoria
+      - title: Consultoria y Asesoria
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
       - title: Venta de equipos de cómputo y de red
