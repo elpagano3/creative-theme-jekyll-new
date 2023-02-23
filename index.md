@@ -78,43 +78,43 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  #- type: aside.html
+  #  section_id: aside
+  #  title: Free Download at Start Bootstrap!
+  #  actions:
+  #    - title: Download Now!
+  #      url: https://startbootstrap.com/themes/creative/
+  #      class: btn-light
 
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+  #- type: members.html
+  #  section_id: members
+  #  title: Our Crew!
+  #  background_style: bg-info text-white
+  #  members:
+  #    - title: Christina M. Aponte
+  #      text: Singer and Songwriter
+  #      image: assets/img/members/person1.jpg
+  #      url: '#'
+  #    - title: Gary D. Stevens
+  #      text: Bass guitar.
+  #      image: assets/img/members/person2.jpg
+  #      url: '#'
+  #    - title: Devon J. Fletcher
+  #      text: Lead guitar.
+  #      image: assets/img/members/person3.jpg
+  #      url: '#'
+  #    - title: Todd E. Anderson
+  #      text: Drums, percussion.
+  #      image: assets/img/members/person5.jpg
+  #      url: '#'
+  #    - title: Daniel T. Riley
+  #      text: Musician, songwriter, producer.
+  #      image: assets/img/members/person6.jpg
+  #      url: '#'
+  #    - title: Ella P. Walter
+  #      text: PR.
+  #      image: assets/img/members/person7.jpg
+  #      url: '#'
 
   - type: timeline.html
     section_id: timeline
