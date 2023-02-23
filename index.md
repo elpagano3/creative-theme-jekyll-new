@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Soporte Técnico, Servidores Linux y Windows, Venta de Equipos de Cómputo, Firewall Perimetral
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
