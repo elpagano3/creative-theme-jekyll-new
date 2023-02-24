@@ -39,7 +39,7 @@ sections:
         text: You have to make your websites with love these days!
         icon: fa-heart
       - title: Other 1
-        text: Instalacio de CCTV
+        text: Instalación de CCTV
         icon: fa-heart
       - title: Other 2
         text: Some not-so long text here.
