@@ -13,7 +13,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Somos lo que necesitas para tu empresa!
+    title: ¡Somos lo que necesitas para tu empresa!
     text: Abre un ticket de soporte o envianos un  Email.
     actions:
       - title: Abre un ticket
