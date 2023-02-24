@@ -139,10 +139,9 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Contactanos!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+     Envianos un Email o un mensaje a través de Facebook, y te contactaremos los más rápido posible.
     actions:
    # - title: +1 (202) 555-014
    #   icon: fa-phone
