@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Soporte Técnico, Consultoria Infomática, Servidores Linux y Windows
+  title: Soporte Técnico, Consultoria Informática, Servidores Linux y Windows
   text: > 
    "Somos proveedores de servicios y consultoria en tecnologías de la información: venta de equipos de cómputo, servidores Linux y Windows, firewalls y equipos para la red de tu oficina o empresa".
   action: # action button is optional
